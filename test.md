@@ -1,0 +1,1 @@
+this is one bool value, and it's not a list.
